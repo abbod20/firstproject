@@ -1,0 +1,58 @@
+.nav-link{
+
+letter-spacing: 2px ;
+}
+.nav-link:hover{
+
+    color: aqua;
+}
+.about_i input{
+    border: none;
+    border-left: solid red 2px ;
+    margin: 30px ;
+    box-shadow:  1px 1px 14px #6C757D;
+    background-color: #fff;
+    padding: 20px 50px ;
+    
+
+}
+.about_i h1{
+font-family: 'Times New Roman', Times, serif;
+margin: 10px auto;
+width: 50%;
+font-size: 50px ;
+margin-left: 0px ;
+}
+.about_t img{
+height: 95vh;
+width: 93vh;
+margin-bottom: 90px;
+}
+.about_i p{
+margin: 10px auto;
+width: 90%;
+margin-left: 0px ;
+color: #6C757D;
+margin-top: 30px ;
+}
+.a h2{
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+letter-spacing: 1px ;
+width:  60%;
+margin: 10px auto; 
+font-size: 40px;
+}
+.a p{
+text-align: center;
+margin: 10px auto; 
+width:  60%;
+font-size: 20px ;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: #6C757D;
+
+}
+.a h5{
+color: #30BCA2;
+text-align: center;
+}
